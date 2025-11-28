@@ -177,5 +177,5 @@ export default function Pricing() {
         </motion.p>
       </div>
     </section>
-  </span>);
+  );
 }
