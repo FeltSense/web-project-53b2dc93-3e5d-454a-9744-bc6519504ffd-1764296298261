@@ -141,9 +141,12 @@ export default function Hero() {
                   <div className="h-20 bg-slate-800 rounded-xl" />
                   <div className="h-20 bg-slate-800 rounded-xl" />
                   <div className="h-16 bg-emerald-400/20 rounded-xl border border-emerald-400/30" />
-                </div></div>
+                </div>
+              </div>
+            </div>
+          </div>
         </motion.div>
       </div>
     </section>
-  </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></span>);
+  );
 }
